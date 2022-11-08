@@ -1,0 +1,40 @@
+
+.imgcabecalho{
+    width: 10%;
+    margin-left: 10px;
+}
+
+header {
+    background: #141643;
+    padding: 10px 0;
+}
+
+
+nav {
+    position: absolute;
+    top: 70px;
+    left: 20%;
+}
+
+nav ul li {
+    display: inline;
+    margin: 50px;
+    font-size: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+a:hover{
+    color:  skyblue;
+    font-family: Arial;
+}
+
+main p{
+    line-height: 1.5;
+    margin:  0 30px;
+    text-align: justify;
+}
